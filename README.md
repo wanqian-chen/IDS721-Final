@@ -37,19 +37,19 @@ median_house_value (numeric - int ) : Median of the household prices of all the 
 3. Replace the null values
 
 ![null](img/null.png)
-![null2](img/null2.png)
+![null1](img/null1.png)
 
 4. Visualize the data to get a better understanding of the data
    
 Visualization example:
-![visualize](img/visualize.png)
-![visualize2](img/visualize2.png)
-![visualize3](img/visualize3.png)
-![visualize4](img/visualize4.png)
+![visualization](img/visualization.png)
+![visualization2](img/visualization2.png)
+![visualization3](img/visualization3.png)
+![visualization4](img/visualization4.png)
 
 5. Draw the correlation heatmap
 
-![correration](img/correration.png)
+![correlation](img/correration.png)
 
 6. Train the model using linear regression, RFE, ridge, decision tree, and random forest
 
