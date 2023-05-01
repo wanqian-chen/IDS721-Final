@@ -12,16 +12,16 @@ This project is to predict the house price in California. The dataset is from Ka
 6. Test the prediction accuracy
 
 ## Columns of dataset
-longitude (signed numeric - float) : Longitude value for the block in California, USA
-latitude (numeric - float ) : Latitude value for the block in California, USA
-housing_median_age (numeric - int ) : Median age of the house in the block
-total_rooms (numeric - int ) : Count of the total number of rooms (excluding bedrooms) in all houses in the block
-total_bedrooms (numeric - float ) : Count of the total number of bedrooms in all houses in the block
-population (numeric - int ) : Count of the total number of population in the block
-households (numeric - int ) : Count of the total number of households in the block
-median_income (numeric - float ) : Median of the total household income of all the houses in the block
-ocean_proximity (numeric - categorical ) : Type of the landscape of the block [ Unique Values : 'NEAR BAY', '<1H OCEAN', 'INLAND', 'NEAR OCEAN', 'ISLAND' ]
-median_house_value (numeric - int ) : Median of the household prices of all the houses in the block
+longitude (signed numeric - float) : Longitude value for the block in California, USA  
+latitude (numeric - float ) : Latitude value for the block in California, USA  
+housing_median_age (numeric - int ) : Median age of the house in the block  
+total_rooms (numeric - int ) : Count of the total number of rooms (excluding bedrooms) in all houses in the block  
+total_bedrooms (numeric - float ) : Count of the total number of bedrooms in all houses in the block  
+population (numeric - int ) : Count of the total number of population in the block  
+households (numeric - int ) : Count of the total number of households in the block  
+median_income (numeric - float ) : Median of the total household income of all the houses in the block  
+ocean_proximity (numeric - categorical ) : Type of the landscape of the block [ Unique Values : 'NEAR BAY', '<1H OCEAN', 'INLAND', 'NEAR OCEAN', 'ISLAND' ]  
+median_house_value (numeric - int ) : Median of the household prices of all the houses in the block  
 
 ## Example
 
