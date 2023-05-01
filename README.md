@@ -1,5 +1,6 @@
 # House Price Prediction in California
 
+
 ## Project Description
 This project is to predict the house price in California. The dataset is from Kaggle. The dataset contains 20640 observations and 10 variables. The variables are longitude, latitude, housing median age, total rooms, total bedrooms, population, households, median income, median house value, and ocean proximity. The target variable is median house value. 
 
