@@ -41,7 +41,7 @@ median_house_value (numeric - int ) : Median of the household prices of all the 
 
 4. Visualize the data to get a better understanding of the data
    
-Visualization example:
+Visualization example:  
 ![visualization](img/visualization.png)
 ![visualization2](img/visualization2.png)
 ![visualization3](img/visualization3.png)
@@ -49,7 +49,7 @@ Visualization example:
 
 5. Draw the correlation heatmap
 
-![correlation](img/correration.png)
+![correlation](img/correlation.png)
 
 6. Train the model using linear regression, RFE, ridge, decision tree, and random forest
 
